@@ -1,102 +1,165 @@
-# ✨ BELLA IMAGEN
-### Sistema Web de Gestión para Centros de Estética y Belleza
+ <div align="center">
 
-<p align="center">
-  <strong>Una plataforma integral para administrar, organizar y optimizar las operaciones de un centro de belleza.</strong>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:190A16,50:702C4B,100:C49A58&text=BELLA%20IMAGEN&fontColor=FFFFFF&fontSize=65&fontAlignY=45&desc=GESTIÓN%20INTELIGENTE%20PARA%20CENTROS%20DE%20BELLEZA&descAlignY=65&descSize=15&animation=fadeIn" width="100%" alt="Bella Imagen banner"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-8.x-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Bootstrap-5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-</p>
+<br>
+
+<img src="https://img.shields.io/badge/✨_PREMIUM_BEAUTY_SYSTEM-8B4968?style=for-the-badge" alt="Premium Beauty System"/>
+
+<br><br>
+
+**Una nueva forma de administrar la belleza.**
+
+Sistema web integral para gestionar clientes, especialistas, servicios, citas, tratamientos, pagos e inventario desde una sola plataforma.
+
+<br>
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+
+</div>
 
 ---
 
-## 💎 Sobre el proyecto
+<div align="center">
 
-**Bella Imagen** es un sistema web desarrollado para mejorar la gestión administrativa y operativa de un centro de estética y belleza.
+## ✦ UNA EXPERIENCIA INTEGRAL ✦
 
-Su propósito es centralizar los procesos del negocio en una plataforma intuitiva, facilitando el control de clientes, especialistas, servicios, citas, tratamientos, pagos e inventario.
+</div>
 
-El sistema busca reducir tareas manuales, organizar la información y proporcionar una mejor experiencia de administración.
+<img align="right" width="300" src="https://images.unsplash.com/photo-1560066984-138dadb4c035?w=700&auto=format&fit=crop&q=85" alt="Centro de belleza"/>
+
+### Belleza, organización y tecnología
+
+**Bella Imagen** nace como una solución tecnológica para modernizar la administración de centros de estética y belleza.
+
+Su plataforma permite centralizar las operaciones del negocio, mantener organizada la información y facilitar el seguimiento de cada servicio.
+
+<br clear="right"/>
 
 ---
 
-## 🚀 Módulos del sistema
+<div align="center">
 
-| Módulo | Descripción |
+## ✨ MÓDULOS PRINCIPALES
+
+</div>
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 👥 Clientes
+
+Registro y administración de clientes.
+
+</td>
+<td width="50%" align="center">
+
+### 💆 Especialistas
+
+Gestión de profesionales y especialidades.
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+### 🌸 Servicios
+
+Administración del catálogo de servicios.
+
+</td>
+<td width="50%" align="center">
+
+### 📅 Agenda
+
+Organización de citas y horarios.
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+### 🧴 Tratamientos
+
+Seguimiento de tratamientos y atenciones.
+
+</td>
+<td width="50%" align="center">
+
+### 💳 Pagos
+
+Control de operaciones y pagos.
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+### 📦 Inventario
+
+Control de productos y existencias.
+
+</td>
+<td width="50%" align="center">
+
+### 📊 Reportes
+
+Información para la gestión administrativa.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🛠️ TECNOLOGÍAS
+
+<img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,bootstrap,git,github&theme=dark" alt="Tecnologías utilizadas"/>
+
+</div>
+
+| Tecnología | Aplicación |
 |:---|:---|
-| 🔐 Autenticación | Acceso mediante usuario y contraseña. |
-| 📊 Dashboard | Panel principal con información general. |
-| 👥 Clientes | Registro y administración de clientes. |
-| 💆 Especialistas | Gestión de profesionales. |
-| ✨ Especialidades | Organización de especialidades. |
-| 🧴 Servicios | Administración del catálogo de servicios. |
-| 🌸 Tratamientos | Registro y seguimiento de tratamientos. |
-| 📅 Agenda | Organización de horarios y citas. |
-| 📝 Atenciones | Control de servicios realizados. |
-| 💳 Pagos | Registro y control de pagos. |
-| 📦 Inventario | Administración de productos y existencias. |
-| 📈 Reportes | Consulta de información administrativa. |
+| <img src="https://skillicons.dev/icons?i=php" width="20"/> PHP | Backend y lógica del sistema |
+| <img src="https://skillicons.dev/icons?i=mysql" width="20"/> MySQL | Base de datos relacional |
+| <img src="https://skillicons.dev/icons?i=html" width="20"/> HTML5 | Estructura web |
+| <img src="https://skillicons.dev/icons?i=css" width="20"/> CSS3 | Diseño de interfaces |
+| <img src="https://skillicons.dev/icons?i=js" width="20"/> JavaScript | Interactividad |
+| <img src="https://skillicons.dev/icons?i=bootstrap" width="20"/> Bootstrap | Diseño adaptable |
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,bootstrap,git,github" alt="Tecnologías">
-</p>
+## 🚀 INSTALACIÓN
 
-| Tecnología | Utilidad |
-|:---|:---|
-| PHP | Lógica del servidor. |
-| MySQL | Gestión de base de datos. |
-| HTML5 | Estructura de las interfaces. |
-| CSS3 | Diseño y estilos visuales. |
-| JavaScript | Interactividad. |
-| Bootstrap 5 | Diseño adaptable. |
-| PDO | Conexión y consultas a la base de datos. |
-| Git / GitHub | Control de versiones. |
+</div>
 
----
-
-## ⚙️ Instalación y ejecución
-
-### 1. Requisitos
-
-- XAMPP.
-- PHP 8 o superior.
-- MySQL o MariaDB.
-- Navegador web actualizado.
-- Git (opcional).
-
-### 2. Clonar el repositorio
+**01 — Clonar el repositorio**
 
 ```bash
 git clone https://github.com/andremezabarriga314/sistema_web_centro_est-tica-y-belleza.git
 ```
 
-### 3. Ubicar el proyecto
+**02 — Configurar XAMPP**
 
-Copia la carpeta del proyecto dentro de:
+Colocar la carpeta del proyecto dentro de `htdocs` e iniciar Apache y MySQL.
 
-```text
-C:\xampp2\htdocs\
-```
+**03 — Importar la base de datos**
 
-### 4. Configurar la base de datos
+Abrir phpMyAdmin e importar `database.sql`.
 
-1. Inicia Apache y MySQL desde XAMPP.
-2. Ingresa a `http://localhost/phpmyadmin`.
-3. Crea la base de datos correspondiente.
-4. Importa el archivo `database.sql`.
-5. Configura la conexión en `config/database.php`.
+**04 — Configurar la conexión**
 
-### 5. Ejecutar el sistema
+Revisar `config/database.php` y establecer los datos de conexión de MySQL.
 
-Abre el navegador y accede a:
+**05 — Iniciar el sistema**
 
 ```text
 http://localhost/bella_imagen
@@ -104,7 +167,11 @@ http://localhost/bella_imagen
 
 ---
 
-## 📁 Estructura general
+<div align="center">
+
+## 📂 ESTRUCTURA DEL PROYECTO
+
+</div>
 
 ```text
 bella_imagen/
@@ -115,23 +182,16 @@ bella_imagen/
 │   └── img/
 │
 ├── config/
-│   └── database.php
-│
 ├── includes/
-│   ├── header.php
-│   ├── footer.php
-│   └── functions.php
 │
 ├── agenda.php
 ├── atenciones.php
 ├── dashboard.php
 ├── inventario.php
 ├── login.php
-├── logout.php
 ├── modulo.php
 ├── pagos.php
 ├── reportes.php
-├── reservar.php
 │
 ├── database.sql
 ├── database_update.sql
@@ -140,46 +200,26 @@ bella_imagen/
 
 ---
 
-## 🔒 Seguridad
+<div align="center">
 
-El proyecto contempla mecanismos para proteger la información y controlar el acceso:
+## 👨‍💻 DESARROLLADOR
 
-- Autenticación de usuarios.
-- Consultas preparadas mediante PDO.
-- Validación de información.
-- Protección de acceso a módulos.
-- Manejo seguro de contraseñas.
+<img src="https://github-readme-stats.vercel.app/api?username=andremezabarriga314&show_icons=true&theme=radical&hide_border=true&bg_color=160D16&title_color=E6B8C8&icon_color=C49A58&text_color=FFFFFF" alt="Estadísticas GitHub" width="450"/>
 
----
+### ANDRÉ MEZA BARRIGA
 
-## 🎯 Objetivos del proyecto
+Estudiante de Ingeniería de Software con Inteligencia Artificial.
 
-- Digitalizar los procesos administrativos.
-- Centralizar la información del negocio.
-- Mejorar la organización de citas y atenciones.
-- Facilitar el control de pagos e inventario.
-- Optimizar la gestión de clientes y especialistas.
+<a href="https://github.com/andremezabarriga314">
+<img src="https://img.shields.io/badge/MI_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
----
+<br><br>
 
-## 👨‍💻 Desarrollador
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:190A16,50:702C4B,100:C49A58&height=120&section=footer" width="100%" alt="Footer"/>
 
-<p align="center">
-  <strong>ANDRÉ MEZA BARRIGA</strong>
-  <br>
-  Estudiante de Ingeniería de Software con Inteligencia Artificial
-  <br><br>
-  <a href="https://github.com/andremezabarriga314">
-    <img src="https://img.shields.io/badge/GitHub-André%20Meza-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-</p>
+**BELLA IMAGEN** · Tecnología al servicio de la belleza.
 
----
+© 2026 · Proyecto académico
 
-<p align="center">
-  <strong>✨ BELLA IMAGEN</strong>
-  <br>
-  <em>La belleza también se gestiona con tecnología.</em>
-  <br><br>
-  © 2026 Bella Imagen · Proyecto académico
-</p>
+</div>
